@@ -1,5 +1,5 @@
-# zed-ocean-dark-motifs-theme
+# zed-ocean-dark-motifs-darker-theme
 
-Move `ocean-dark-motifs.json` to `~/.config/zed/themes`
+Move `ocean-dark-motifs-darker.json` to `~/.config/zed/themes`
 
 ![image](screenshots/theme.png)

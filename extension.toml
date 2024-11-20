@@ -1,7 +1,7 @@
-id = "ocean-dark-motifs"
-name = "Ocean Dark Motifs Theme"
-version = "0.0.2"
+id = "ocean-dark-motifs-darker"
+name = "Ocean Dark Motifs Darker Theme"
+version = "1.0.0"
 schema_version = 1
-authors = ["kirqe <kirqe@yahoo.com>"]
-description = "Ocean Dark Motifs theme for Zed"
-repository = "https://github.com/kirqe/zed-ocean-dark-motifs-theme"
+authors = ["kirqe <kirqe@yahoo.com>, keith <keith@keithrowell.com>"]
+description = "Ocean Dark Motifs Darker theme for Zed"
+repository = "https://github.com/kirqe/zed-ocean-dark-motifs-darker-theme"
