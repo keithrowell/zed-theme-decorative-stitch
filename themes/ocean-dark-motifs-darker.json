@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Ocean Dark Motifs Darker",
-  "author": "kirqe, kr71",
+  "name": "Decorative Stitch",
+  "author": "KR71",
   "themes": [
     {
-      "name": "Ocean Light Motifs",
+      "name": "Decorative Stitch Light",
       "appearance": "light",
       "style": {
         "border": "#e8e4d8",
@@ -302,7 +302,7 @@
       }
     },
     {
-      "name": "Ocean Dark Motifs Darker",
+      "name": "Decorative Stitch Dark",
       "appearance": "dark",
       "style": {
         "border": "#2d3340",
