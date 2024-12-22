@@ -1,5 +1,5 @@
-# zed-ocean-dark-motifs-darker-theme
+# zed-decorative-stitch-theme
 
-Move `ocean-dark-motifs-darker.json` to `~/.config/zed/themes`
+Move `decorative-stitch.json` to `~/.config/zed/themes`
 
 ![image](screenshots/theme.png)
