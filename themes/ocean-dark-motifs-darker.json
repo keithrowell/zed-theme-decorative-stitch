@@ -293,6 +293,10 @@
             "color": "#81A1C1",
             "font_style": null,
             "font_weight": null
+          },
+          "title": {
+            "color": "#BE6F75",
+            "font_weight": 700
           }
         }
       }
