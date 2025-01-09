@@ -1,5 +1,28 @@
-# zed-decorative-stitch-theme
+# Decorative Stitch Theme for Zed
 
-Move `decorative-stitch.json` to `~/.config/zed/themes`
+<p align="center">
+    <img src="images/icon.png" width="100" alt="Logo"/>
+    <img src="images/icon.png" width="100" alt="Logo"/>
+    <h3 align="center">Decorative Stitch <a href="https://zed.dev/">Zed</a></h3>
+</p>
 
-![image](screenshots/theme.png)
+## Preview
+
+### Decorative Stitch Dark
+
+<img src="images/theme-dark.png"/>
+
+### Decorative Stitch Light
+
+<img src="images/theme-light.png"/>
+
+### Install via Zed Extensions
+
+1. Open Zed
+2. `cmd+shift+p` and select *zed: extensions*
+3. Search/select *Decorative Stitch* and Install
+
+### Install Manually
+
+1. Download [decorative-stitch.json](./themes/decorative-stitch.json)
+2. Put into `~/.config/zed/themes/`
