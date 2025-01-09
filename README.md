@@ -25,3 +25,7 @@
 
 1. Download [decorative-stitch.json](./themes/decorative-stitch.json)
 2. Put into `~/.config/zed/themes/`
+
+## Credits
+
+Based on the [zed-ocean-dark-motifs-theme](https://github.com/kirqe/zed-ocean-dark-motifs-theme) by [kirqe](https://github.com/kirqe)
