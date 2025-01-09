@@ -4,4 +4,4 @@ version = "1.0.0"
 schema_version = 1
 authors = ["keith <keith@keithrowell.com>"]
 description = "Decorative Stitch theme for Zed"
-repository = "https://github.com/kirqe/zed-ocean-dark-motifs-darker-theme"
+repository = "https://github.com/keithrowell/zed-theme-decorative-stitch.git"
