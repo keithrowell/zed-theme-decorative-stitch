@@ -19,9 +19,9 @@
         "element.background": "#e8e4d8",
         "element.hover": "#e8e4d866",
         "element.active": "#e4daca66",
-        "element.selected": "#456d7a",
+        "element.selected": "#4a7d8c",
         "element.disabled": null,
-        "drop_target.background": "#456d7a99",
+        "drop_target.background": "#4a7d8c99",
         "ghost_element.background": null,
         "ghost_element.hover": "#e8e4d866",
         "ghost_element.active": "#e8e4d866",
@@ -31,7 +31,7 @@
         "text.muted": "#1c1f2699",
         "text.placeholder": "#1c1f2666",
         "text.disabled": "#1c1f2633",
-        "text.accent": "#456d7a99",
+        "text.accent": "#4a7d8c99",
         "icon": null,
         "icon.muted": null,
         "icon.disabled": null,
@@ -43,7 +43,7 @@
         "tab_bar.background": "#f2efe6",
         "tab.inactive_background": "#f2efe6",
         "tab.active_background": "#e8e4d8",
-        "search.match_background": "#456d7a33",
+        "search.match_background": "#4a7d8c33",
         "panel.background": "#f5f2e9",
         "panel.focused_border": null,
         "pane.focused_border": null,
@@ -63,8 +63,8 @@
         "editor.invisible": null,
         "editor.wrap_guide": "#e8e4d8",
         "editor.active_wrap_guide": "#e8e4d8",
-        "editor.document_highlight.read_background": "#456d7a26",
-        "editor.document_highlight.write_background": "#456d7a26",
+        "editor.document_highlight.read_background": "#4a7d8c26",
+        "editor.document_highlight.write_background": "#4a7d8c26",
         "terminal.background": "#f2efe6",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
@@ -81,20 +81,20 @@
         "terminal.ansi.yellow": "#996515",
         "terminal.ansi.bright_yellow": "#b39174",
         "terminal.ansi.dim_yellow": null,
-        "terminal.ansi.blue": "#456d7a",
+        "terminal.ansi.blue": "#4a7d8c",
         "terminal.ansi.bright_blue": "#5e8b98",
         "terminal.ansi.dim_blue": null,
         "terminal.ansi.magenta": "#734d78",
         "terminal.ansi.bright_magenta": "#8b6d92",
         "terminal.ansi.dim_magenta": null,
-        "terminal.ansi.cyan": "#456d7a",
+        "terminal.ansi.cyan": "#4a7d8c",
         "terminal.ansi.bright_cyan": "#5e8b98",
         "terminal.ansi.dim_cyan": null,
         "terminal.ansi.white": "#e5e9f0",
         "terminal.ansi.bright_white": "#eceff4",
         "terminal.ansi.dim_white": null,
-        "link_text.hover": "#456d7a",
-        "conflict": "#456d7a",
+        "link_text.hover": "#4a7d8c",
+        "conflict": "#4a7d8c",
         "conflict.background": null,
         "conflict.border": null,
         "created": "#507f47",
@@ -109,13 +109,13 @@
         "hidden": "#1c1f2666",
         "hidden.background": null,
         "hidden.border": null,
-        "hint": "#456d7a",
+        "hint": "#4a7d8c",
         "hint.background": null,
         "hint.border": "#99651500",
         "ignored": "#1c1f2666",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#456d7a",
+        "info": "#4a7d8c",
         "info.background": null,
         "info.border": null,
         "modified": "#996515",
@@ -165,12 +165,12 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
           "boolean": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
@@ -190,12 +190,12 @@
             "font_weight": 900
           },
           "constructor": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
           "function": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
@@ -210,12 +210,12 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": 900
           },
           "preproc": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
@@ -270,7 +270,7 @@
             "font_weight": 900
           },
           "tag": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
@@ -290,7 +290,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#456d7a",
+            "color": "#4a7d8c",
             "font_style": null,
             "font_weight": null
           },
