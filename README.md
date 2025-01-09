@@ -2,7 +2,6 @@
 
 <p align="center">
     <img src="images/icon.png" width="100" alt="Logo"/>
-    <img src="images/icon.png" width="100" alt="Logo"/>
     <h3 align="center">Decorative Stitch <a href="https://zed.dev/">Zed</a></h3>
 </p>
 
