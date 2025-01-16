@@ -1,6 +1,6 @@
 id = "decorative-stitch"
 name = "Decorative Stitch Theme"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["keith <keith@keithrowell.com>"]
 description = "Decorative Stitch theme for Zed.\nSubtle, sophisticated, pleasing to the eye and conducive to writing beautiful code."
